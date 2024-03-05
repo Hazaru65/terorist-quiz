@@ -9,13 +9,43 @@
     "Adi": "İbrahim Halil",
     "Soyadi": "BAYLİ",
     "GorselURL": [
+      "/imom7p6.png"
+    ],
+    "IlkGorselURL": "/imom7p6.png",
+    "TOrgutAdi": "PKK/KCK",
+    "TKategoriAdi": "kırmızı"
+  },
+  {
+    "Adi": "Memet Emin",
+    "Soyadi": "TOPRAK",
+    "GorselURL": [
+      "/9u40lw1.png"
+    ],
+    "IlkGorselURL": "/9u40lw1.png",
+    "TOrgutAdi": "PKK/KCK",
+    "TKategoriAdi": "kırmızı"
+  },
+  {
+    "Adi": "İbrahim",
+    "Soyadi": "BİÇAKCİ",
+    "GorselURL": [
       "/2m5us3h.png"
     ],
     "IlkGorselURL": "/2m5us3h.png",
-    "TOrgutAdi": "PKK/KCK",
-    "TKategoriAdi": "kırmızı"
-  }
+    "TOrgutAdi": "FETÖ/PDY",
+    "TKategoriAdi": "mavi"
+  },
 
+  {
+    "Adi": "Mesih",
+    "Soyadi": "GÜLEN",
+    "GorselURL": [
+      "/lek1zfr.png"
+    ],
+    "IlkGorselURL": "/lek1zfr.png",
+    "TOrgutAdi": "FETÖ/PDY",
+    "TKategoriAdi": "mavi"
+  }
 
 
 
