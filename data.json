@@ -16,12 +16,12 @@
     "TKategoriAdi": "kırmızı"
   },
   {
-    "Adi": "Memet Emin",
+    "Adi": "Kenan",
     "Soyadi": "TOPRAK",
     "GorselURL": [
-      "/9u40lw1.png"
+      "/f9k89nr.png"
     ],
-    "IlkGorselURL": "/9u40lw1.png",
+    "IlkGorselURL": "/f9k89nr.png",
     "TOrgutAdi": "PKK/KCK",
     "TKategoriAdi": "kırmızı"
   },
@@ -45,6 +45,39 @@
     "IlkGorselURL": "/lek1zfr.png",
     "TOrgutAdi": "FETÖ/PDY",
     "TKategoriAdi": "mavi"
+  },
+  {
+    "Adi": "Samet",
+    "Soyadi": "DOKUMACI",
+    "GorselURL": [
+      "/n1zcvwc.png",
+      "/n1zcvwc.png"
+    ],
+    "IlkGorselURL": "/n1zcvwc.png",
+    "TOrgutAdi": "DEAŞ",
+    "TKategoriAdi": "kırmızı"
+  },
+  {
+    "Adi": "Musto",
+    "Soyadi": "DOKUMACI",
+    "GorselURL": [
+      "/csan386.png",
+      "/csan386.png"
+    ],
+    "IlkGorselURL": "/csan386.png",
+    "TOrgutAdi": "Ermeni",
+    "TKategoriAdi": "kırmızı"
+  },
+  {
+    "Adi": "Yasin",
+    "Soyadi": "DOKUMACI",
+    "GorselURL": [
+      "/mdct79j.png",
+      "/mdct79j.png"
+    ],
+    "IlkGorselURL": "/mdct79j.png",
+    "TOrgutAdi": "PKK/KCK",
+    "TKategoriAdi": "kırmızı"
   }
 
 
